@@ -60,6 +60,16 @@ redaction and a first-class local path, not an afterthought; (b) an integrated
 self-hostable note dispatcher, which routing libraries do not provide; (c) governance and
 licence — genuine community OSS under EUPL, aimed at European digital sovereignty.
 
+## Generative AI disclosure
+
+In line with [NLnet's generative-AI policy](https://nlnet.nl/foundation/policies/generativeAI/):
+this README and the accompanying grant proposal were drafted with the help of Claude
+(Anthropic, model `claude-fable-5-1`) via Claude Code, from the maintainer's instructions, and
+reviewed and revised by the maintainer, who is responsible for their content. The project idea,
+architecture and roadmap are the maintainer's own. During the project, commits that add
+generated code will be marked as such and will carry the model and prompts used; a general
+description of how generative AI is used will be kept in this section.
+
 ## Licence
 
 [EUPL-1.2](LICENSE).
